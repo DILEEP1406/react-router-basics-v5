@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.active {
+  color: rgb(217, 255, 0);
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  background-color: #044599;
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+main {
+  margin-top: 7rem;
+  text-align: center;
+}
+
+h1 {
+  color: #042b5f;
+}
